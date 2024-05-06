@@ -1,0 +1,19 @@
+{
+  "plugin.name": "Eklenti Tarayıcısı",
+  "plugin.name.changes": "Plugin Browser (+{changes})",
+  "toast.copy.github_link": "GitHub linki kopyalandı!",
+  "toast.copy.unproxied_link": "Vekilsiz eklenti linki kopyalandı!",
+  "toast.plugin.update.success": "Updated {plugin}!",
+  "toast.plugin.update.fail": "Failed to update {plugin}!",
+  "toast.plugin.delete.success": "Deleted {plugin}!",
+  "toast.plugin.delete.fail": "Failed to delete {plugin}!",
+  "toast.plugin.install.success": "Installed {plugin}!",
+  "toast.plugin.install.fail": "Failed to install {plugin}!",
+  "toast.data.fail_fetch": "Eklentiler alınamadı!",
+  "toast.data.fail_parse": "Eklentiler ayrıştırılamadı!",
+  "sheet.sort.title": "Sıralama",
+  "sheet.sort.date_newest": "Oluşturulma tarihi (yeniden eskiye)",
+  "sheet.sort.date_oldest": "Oluşturulma tarihi (eskiden yeniye)",
+  "sheet.sort.name_az": "İsim (A'dan Z'ye)",
+  "sheet.sort.name_za": "İsim (Z'den A'ya)"
+}
